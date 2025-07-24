@@ -1,0 +1,14 @@
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Strings Practice\bin\Debug\net8.0\Strings Practice.exe
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Strings Practice\bin\Debug\net8.0\Strings Practice.deps.json
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Strings Practice\bin\Debug\net8.0\Strings Practice.runtimeconfig.json
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Strings Practice\bin\Debug\net8.0\Strings Practice.dll
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Strings Practice\bin\Debug\net8.0\Strings Practice.pdb
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Strings Practice\obj\Debug\net8.0\Strings Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Strings Practice\obj\Debug\net8.0\Strings Practice.AssemblyInfoInputs.cache
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Strings Practice\obj\Debug\net8.0\Strings Practice.AssemblyInfo.cs
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Strings Practice\obj\Debug\net8.0\Strings Practice.csproj.CoreCompileInputs.cache
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Strings Practice\obj\Debug\net8.0\Strings Practice.dll
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Strings Practice\obj\Debug\net8.0\refint\Strings Practice.dll
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Strings Practice\obj\Debug\net8.0\Strings Practice.pdb
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Strings Practice\obj\Debug\net8.0\Strings Practice.genruntimeconfig.cache
+C:\Users\renzo\OneDrive\Documentos\Visual Studio 2022\Projects\Strings Practice\obj\Debug\net8.0\ref\Strings Practice.dll
